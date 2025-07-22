@@ -1,1 +1,1 @@
-# For_IJGE_2025
+# This folder contains the parameters for the paper
